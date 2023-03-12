@@ -1,0 +1,14 @@
+logo : https://www.flaticon.com/free-icon/pizza_706918
+
+Home: https://i0.wp.com/chefteta.com/wp-content/uploads/2021/08/113.jpg?fit=%2C&ssl=1&is-pending-load=1
+
+pedrotechspecial: https://www.tripadvisor.com/Restaurant_Review-g189143-d18453555-Reviews-Fixe_Pizza-Coimbra_Coimbra_District_Central_Portugal.html#photos;aggregationId=&albumid=101&filter=7&ff=428487296
+margherita: http://ellearabia.com/media/cache/resolve/ckeditor_photo_thumnail/uploads/content-body-images/89bf5815c2efe522d8fc7c1d9a706c71.jpeg
+pepperoni:https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRuBCI3_xmPWwooTOP2tu7Pxa4__-F9UZ5vrytYsUw2luOa1h3C
+expensive: https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRhWUCSUH45_pcTFtnpJxN5pcEUw5yb2NOs8xlW2OUnw4dtQisa
+pineapple:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLong5jEO_bMi9rDLHQ_bmmDWgUhqEEZmMsa85lBT6r7pVGB8M
+vegan: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVXjI308wBjlbSu1ov1W89tkJHdB-evUfjjeO37xrRGAJ_r7pw
+
+about us:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiAahwDsChi79knwHG6-fSoVJ5ZGss3aCVHXTGuzjKGLGzUrt2
+
+contact us : https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDvR49aLNECXLEnmCkvOs_DX5DacWjGcdu8M00a3IX2l-7OTlQ
